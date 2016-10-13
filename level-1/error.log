@@ -1,0 +1,34 @@
+[14-10-2016 01:42:17] - Sorry... in /home/preacher/www/specialist/level-1/inc/menu.inc.php:5
+[14-10-2016 01:43:29] - Undefined variable: leftMenu in /home/preacher/www/specialist/level-1/inc/menu.inc.php:4
+[14-10-2016 01:43:29] - Sorry... in /home/preacher/www/specialist/level-1/inc/menu.inc.php:5
+[14-10-2016 01:43:43] - Undefined variable: leftMenu in /home/preacher/www/specialist/level-1/inc/menu.inc.php:4
+[14-10-2016 01:43:43] - Sorry... in /home/preacher/www/specialist/level-1/inc/menu.inc.php:5
+[14-10-2016 01:44:09] - Undefined variable: leftMenu in /home/preacher/www/specialist/level-1/inc/menu.inc.php:4
+[14-10-2016 01:44:09] - Sorry... in /home/preacher/www/specialist/level-1/inc/menu.inc.php:5
+[14-10-2016 01:58:06] - Undefined index: id in /home/preacher/www/specialist/level-1/index.php:11
+[14-10-2016 01:58:06] - Undefined variable: leftMenu in /home/preacher/www/specialist/level-1/inc/menu.inc.php:4
+[14-10-2016 01:58:06] - Sorry... in /home/preacher/www/specialist/level-1/inc/menu.inc.php:5
+[14-10-2016 01:58:19] - Undefined index: id in /home/preacher/www/specialist/level-1/index.php:11
+[14-10-2016 01:58:29] - Undefined index: id in /home/preacher/www/specialist/level-1/index.php:11
+[14-10-2016 02:03:49] - Undefined variable: cols in /home/preacher/www/specialist/level-1/table.php:8
+[14-10-2016 02:03:49] - Undefined variable: rows in /home/preacher/www/specialist/level-1/table.php:9
+[14-10-2016 02:03:49] - Undefined variable: color in /home/preacher/www/specialist/level-1/table.php:10
+[14-10-2016 02:05:38] - Undefined variable: cols in /home/preacher/www/specialist/level-1/table.php:8
+[14-10-2016 02:05:38] - Undefined variable: rows in /home/preacher/www/specialist/level-1/table.php:9
+[14-10-2016 02:05:38] - Undefined variable: color in /home/preacher/www/specialist/level-1/table.php:10
+[14-10-2016 02:05:59] - Undefined variable: cols in /home/preacher/www/specialist/level-1/table.php:8
+[14-10-2016 02:05:59] - Undefined variable: rows in /home/preacher/www/specialist/level-1/table.php:8
+[14-10-2016 02:05:59] - Undefined variable: color in /home/preacher/www/specialist/level-1/table.php:8
+[14-10-2016 02:05:59] - Undefined variable: cols in /home/preacher/www/specialist/level-1/table.php:10
+[14-10-2016 02:05:59] - Undefined variable: rows in /home/preacher/www/specialist/level-1/table.php:11
+[14-10-2016 02:05:59] - Undefined variable: color in /home/preacher/www/specialist/level-1/table.php:12
+[14-10-2016 02:06:00] - Undefined variable: cols in /home/preacher/www/specialist/level-1/table.php:8
+[14-10-2016 02:06:00] - Undefined variable: rows in /home/preacher/www/specialist/level-1/table.php:8
+[14-10-2016 02:06:00] - Undefined variable: color in /home/preacher/www/specialist/level-1/table.php:8
+[14-10-2016 02:06:00] - Undefined variable: cols in /home/preacher/www/specialist/level-1/table.php:10
+[14-10-2016 02:06:00] - Undefined variable: rows in /home/preacher/www/specialist/level-1/table.php:11
+[14-10-2016 02:06:00] - Undefined variable: color in /home/preacher/www/specialist/level-1/table.php:12
+[14-10-2016 02:07:41] - Undefined variable: cols in /home/preacher/www/specialist/level-1/table.php:8
+[14-10-2016 02:07:41] - Undefined variable: rows in /home/preacher/www/specialist/level-1/table.php:9
+[14-10-2016 02:07:41] - Undefined variable: color in /home/preacher/www/specialist/level-1/table.php:10
+[14-10-2016 02:20:06] - Undefined variable: resStr in /home/preacher/www/specialist/level-1/calc.php:41
